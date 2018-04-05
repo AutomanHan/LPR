@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+project(charfeature)
+AUX_SOURCE_DIRECTORY(. DIR_MAIN)
+AUX_SOURCE_DIRECTORY(./src DIR_SRCS)
+add_executable(charfeature ${DIR_SRCS} ${DIR_MAIN})
+find_package(OpenCV REQUIRED)
+target_link_libraries(charfeature ${OpenCV_LIBS})

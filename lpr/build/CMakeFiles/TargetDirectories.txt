@@ -1,0 +1,3 @@
+/home/hanc/Code/opencvcode/lpr/build/CMakeFiles/edit_cache.dir
+/home/hanc/Code/opencvcode/lpr/build/CMakeFiles/rebuild_cache.dir
+/home/hanc/Code/opencvcode/lpr/build/CMakeFiles/lpr.dir

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<trainingData type_id="opencv-matrix">
+  <rows>0</rows>
+  <cols>0</cols>
+  <dt>f</dt>
+  <data></data></trainingData>
+<classes type_id="opencv-matrix">
+  <rows>20</rows>
+  <cols>1</cols>
+  <dt>i</dt>
+  <data>
+    1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0</data></classes>
+</opencv_storage>

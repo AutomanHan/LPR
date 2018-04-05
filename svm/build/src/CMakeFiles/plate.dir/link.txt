@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplate.a  CMakeFiles/plate.dir/Plate.cpp.o
+/usr/bin/ranlib libplate.a

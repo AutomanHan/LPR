@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(svmxml)
+add_executable(svmxml svmxml.cpp)
+find_package(OpenCV REQUIRED)
+target_link_libraries(svmxml ${OpenCV_LIBS})

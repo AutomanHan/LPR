@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanc/Code/opencvcode/lprtest/svm/src/Plate.cpp
+Plate.h
+/home/hanc/Code/opencvcode/lprtest/svm/src/Plate.h
+
+/home/hanc/Code/opencvcode/lprtest/svm/src/Plate.h
+string.h
+-
+vector
+-
+opencv/cv.h
+-
+opencv/cvaux.h
+-
+opencv2/highgui/highgui.h
+-
+

@@ -1,0 +1,6 @@
+/home/hanc/Code/opencvcode/lpr/Chapter5_NumberPlateRecognition/build/CMakeFiles/edit_cache.dir
+/home/hanc/Code/opencvcode/lpr/Chapter5_NumberPlateRecognition/build/CMakeFiles/ANPR.dir
+/home/hanc/Code/opencvcode/lpr/Chapter5_NumberPlateRecognition/build/CMakeFiles/trainSVM.dir
+/home/hanc/Code/opencvcode/lpr/Chapter5_NumberPlateRecognition/build/CMakeFiles/rebuild_cache.dir
+/home/hanc/Code/opencvcode/lpr/Chapter5_NumberPlateRecognition/build/CMakeFiles/trainOCR.dir
+/home/hanc/Code/opencvcode/lpr/Chapter5_NumberPlateRecognition/build/CMakeFiles/evalOCR.dir
